@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .para:before {
 content:'Before Element';
-color: deeppink;
+color: rgb(255, 0, 0);
 /* font-size: 20px; */
 /* margin-right: 5px; */
 }
